@@ -1,0 +1,32 @@
+{
+  "$schema": "https://raw.githubusercontent.com/SchemaStore/schemastore/refs/heads/master/src/schemas/json/package.json",
+  "name": "sanctuary-dev",
+  "version": "0.0.1",
+  "pnpm": {
+    "peerDependencyRules": {
+      "allowedVersions": {
+        "unocss": "^0"
+      }
+    },
+    "overrides": {
+      "sanctuary": "file:packages/sanctuary",
+      "sanctuary-constant": "file:packages/sanctuary-constant",
+      "sanctuary-def": "file:packages/sanctuary-def",
+      "sanctuary-descending": "file:packages/sanctuary-descending",
+      "sanctuary-either": "file:packages/sanctuary-either",
+      "sanctuary-identity": "file:packages/sanctuary-identity",
+      "sanctuary-int": "file:packages/sanctuary-int",
+      "sanctuary-list": "file:packages/sanctuary-list",
+      "sanctuary-maybe": "file:packages/sanctuary-maybe",
+      "sanctuary-pair": "file:packages/sanctuary-pair",
+      "sanctuary-scripts": "file:packages/sanctuary-scripts",
+      "sanctuary-set": "file:packages/sanctuary-set",
+      "sanctuary-show": "file:packages/sanctuary-show",
+      "sanctuary-style": "file:packages/sanctuary-style",
+      "sanctuary-type-classes": "file:packages/sanctuary-type-classes",
+      "sanctuary-type-identifiers": "file:packages/sanctuary-type-identifiers",
+      "sanctuary-types": "file:packages/sanctuary-types",
+      "sanctuary-useless": "file:packages/sanctuary-useless"
+    }
+  }
+}
