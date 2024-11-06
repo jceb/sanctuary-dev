@@ -1,0 +1,54 @@
+[submodule "packages/sanctuary"]
+	path = packages/sanctuary
+	url = https://github.com/jceb/sanctuary.git
+[submodule "packages/sanctuary-def"]
+	path = packages/sanctuary-def
+	url = https://github.com/jceb/sanctuary-def.git
+[submodule "packages/sanctuary-either"]
+	path = packages/sanctuary-either
+	url = https://github.com/jceb/sanctuary-either.git
+[submodule "packages/sanctuary-maybe"]
+	path = packages/sanctuary-maybe
+	url = https://github.com/jceb/sanctuary-maybe.git
+[submodule "packages/sanctuary-pair"]
+	path = packages/sanctuary-pair
+	url = https://github.com/jceb/sanctuary-pair.git
+[submodule "packages/sanctuary-type-identifiers"]
+	path = packages/sanctuary-type-identifiers
+	url = https://github.com/jceb/sanctuary-type-identifiers.git
+[submodule "packages/sanctuary-show"]
+	path = packages/sanctuary-show
+	url = https://github.com/sanctuary-js/sanctuary-show.git
+[submodule "packages/sanctuary-type-classes"]
+	path = packages/sanctuary-type-classes
+	url = https://github.com/sanctuary-js/sanctuary-type-classes.git
+[submodule "packages/sanctuary-identity"]
+	path = packages/sanctuary-identity
+	url = https://github.com/sanctuary-js/sanctuary-identity.git
+[submodule "packages/sanctuary-descending"]
+	path = packages/sanctuary-descending
+	url = https://github.com/sanctuary-js/sanctuary-descending.git
+[submodule "packages/sanctuary-list"]
+	path = packages/sanctuary-list
+	url = https://github.com/sanctuary-js/sanctuary-list.git
+[submodule "packages/sanctuary-useless"]
+	path = packages/sanctuary-useless
+	url = https://github.com/sanctuary-js/sanctuary-useless.git
+[submodule "packages/sanctuary-style"]
+	path = packages/sanctuary-style
+	url = https://github.com/sanctuary-js/sanctuary-style.git
+[submodule "packages/sanctuary-set"]
+	path = packages/sanctuary-set
+	url = https://github.com/sanctuary-js/sanctuary-set.git
+[submodule "packages/sanctuary-scripts"]
+	path = packages/sanctuary-scripts
+	url = https://github.com/sanctuary-js/sanctuary-scripts.git
+[submodule "packages/sanctuary-int"]
+	path = packages/sanctuary-int
+	url = https://github.com/sanctuary-js/sanctuary-int.git
+[submodule "packages/sanctuary-constant"]
+	path = packages/sanctuary-constant
+	url = https://github.com/sanctuary-js/sanctuary-constant.git
+[submodule "packages/sanctuary-types"]
+	path = packages/sanctuary-types
+	url = https://github.com/sanctuary-js/sanctuary-types.git
