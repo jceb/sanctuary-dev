@@ -10,3 +10,11 @@ pnpm i
 ```
 
 Start development
+
+## Switching branches
+
+```bash
+git checkout [main|jceb/esm]
+git submodule update --init --recursive
+pnpm i
+```
