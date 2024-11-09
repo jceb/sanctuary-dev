@@ -1,27 +1,34 @@
 [submodule "packages/sanctuary"]
 	path = packages/sanctuary
 	url = https://github.com/jceb/sanctuary.git
+	branch = davidchambers/esm
 [submodule "packages/sanctuary-def"]
 	path = packages/sanctuary-def
 	url = https://github.com/jceb/sanctuary-def.git
+	branch = davidchambers/esm
 [submodule "packages/sanctuary-either"]
 	path = packages/sanctuary-either
 	url = https://github.com/jceb/sanctuary-either.git
+	branch = davidchambers/esm
 [submodule "packages/sanctuary-maybe"]
 	path = packages/sanctuary-maybe
 	url = https://github.com/jceb/sanctuary-maybe.git
+	branch = davidchambers/esm
 [submodule "packages/sanctuary-pair"]
 	path = packages/sanctuary-pair
 	url = https://github.com/jceb/sanctuary-pair.git
+	branch = davidchambers/esm
 [submodule "packages/sanctuary-type-identifiers"]
 	path = packages/sanctuary-type-identifiers
 	url = https://github.com/jceb/sanctuary-type-identifiers.git
+	branch = davidchambers/esm
 [submodule "packages/sanctuary-show"]
 	path = packages/sanctuary-show
 	url = https://github.com/sanctuary-js/sanctuary-show.git
 [submodule "packages/sanctuary-type-classes"]
 	path = packages/sanctuary-type-classes
 	url = https://github.com/sanctuary-js/sanctuary-type-classes.git
+	branch = davidchambers/esm
 [submodule "packages/sanctuary-identity"]
 	path = packages/sanctuary-identity
 	url = https://github.com/sanctuary-js/sanctuary-identity.git
