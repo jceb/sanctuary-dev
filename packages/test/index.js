@@ -30,4 +30,5 @@ pipe([
   // x,
   // resolve,
   // promise
-])("test").then(console.log).catch(console.error);
+])("test")
+  // .then(console.log).catch(console.error);
